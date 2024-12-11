@@ -21,7 +21,6 @@ export default function Index() {
 
       <Button onPress={() => router.navigate('/home')}>
         <Button.Title>Começar</Button.Title>
-        {/* <Button.Icon icon={IconPlus} /> */}
       </Button>
     </View>
   );

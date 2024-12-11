@@ -41,3 +41,11 @@
 ### Instalando biblioteca para renderizar svg:
 
 - `$ npx expo install react-native-svg`
+
+### Instalando biblioteca React Native Bottom Sheet
+
+- `$ npm i @gorhom/bottom-sheet`
+
+### Instando as dependências do Bottom Sheet
+
+- `$ npx expo install react-native-reanimated react-native-gesture-handler`
