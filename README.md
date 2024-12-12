@@ -42,10 +42,14 @@
 
 - `$ npx expo install react-native-svg`
 
-### Instalando biblioteca React Native Bottom Sheet
+### Instalando biblioteca React Native Bottom Sheet:
 
 - `$ npm i @gorhom/bottom-sheet`
 
-### Instando as dependências do Bottom Sheet
+### Instalando as dependências do Bottom Sheet:
 
 - `$ npx expo install react-native-reanimated react-native-gesture-handler`
+
+### Instalando a biblioteca de mapas:
+
+- `$ npx expo install react-native-maps`
