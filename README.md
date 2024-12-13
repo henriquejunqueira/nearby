@@ -53,3 +53,17 @@
 ### Instalando a biblioteca de mapas:
 
 - `$ npx expo install react-native-maps`
+
+### Imagens do projeto:
+
+<div style="display: inline_block" align="center"><br />
+  <img align="center" height="150" width="300" src="https://raw.githubusercontent.com/henriquejunqueira/nearby/refs/heads/main/mobile/src/assets/Splash.png" alt="Tela Splash" width="200"/>
+  <img align="center" height="150" width="300" src="https://raw.githubusercontent.com/henriquejunqueira/nearby/refs/heads/main/mobile/src/assets/Start.png" alt="Tela Start" width="200"/>
+  <img align="center" height="150" width="300" src="https://raw.githubusercontent.com/henriquejunqueira/nearby/refs/heads/main/mobile/src/assets/Home.png" alt="Tela Home" width="200"/>
+</div>
+
+<div style="display: inline_block" align="center"><br />
+  <img align="center" height="150" width="300" src="https://raw.githubusercontent.com/henriquejunqueira/nearby/refs/heads/main/mobile/src/assets/Home%20List.png" alt="Tela Home List" width="200"/>
+  <img align="center" height="150" width="300" src="https://raw.githubusercontent.com/henriquejunqueira/nearby/refs/heads/main/mobile/src/assets/Details.png" alt="Tela Details" width="200"/>
+  <img align="center" height="150" width="300" src="https://raw.githubusercontent.com/henriquejunqueira/nearby/refs/heads/main/mobile/src/assets/Location.png" alt="Tela Location" width="200"/>
+</div>
