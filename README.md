@@ -56,14 +56,14 @@
 
 ### Imagens do projeto:
 
-<div style="display: inline_block" align="center"><br />
-  <img align="center" height="150" width="300" src="https://raw.githubusercontent.com/henriquejunqueira/nearby/refs/heads/main/mobile/src/assets/Splash.png" alt="Tela Splash" width="200"/>
-  <img align="center" height="150" width="300" src="https://raw.githubusercontent.com/henriquejunqueira/nearby/refs/heads/main/mobile/src/assets/Start.png" alt="Tela Start" width="200"/>
-  <img align="center" height="150" width="300" src="https://raw.githubusercontent.com/henriquejunqueira/nearby/refs/heads/main/mobile/src/assets/Home.png" alt="Tela Home" width="200"/>
-</div>
+![Tela Splash](https://raw.githubusercontent.com/henriquejunqueira/nearby/refs/heads/main/mobile/src/assets/Splash.png)
 
-<div style="display: inline_block" align="center"><br />
-  <img align="center" height="150" width="300" src="https://raw.githubusercontent.com/henriquejunqueira/nearby/refs/heads/main/mobile/src/assets/Home%20List.png" alt="Tela Home List" width="200"/>
-  <img align="center" height="150" width="300" src="https://raw.githubusercontent.com/henriquejunqueira/nearby/refs/heads/main/mobile/src/assets/Details.png" alt="Tela Details" width="200"/>
-  <img align="center" height="150" width="300" src="https://raw.githubusercontent.com/henriquejunqueira/nearby/refs/heads/main/mobile/src/assets/Location.png" alt="Tela Location" width="200"/>
-</div>
+![Tela Start](https://raw.githubusercontent.com/henriquejunqueira/nearby/refs/heads/main/mobile/src/assets/Start.png)
+
+![Tela Home](https://raw.githubusercontent.com/henriquejunqueira/nearby/refs/heads/main/mobile/src/assets/Home.png)
+
+![Tela Home](https://raw.githubusercontent.com/henriquejunqueira/nearby/refs/heads/main/mobile/src/assets/Home%20List.png)
+
+![Tela Details](https://raw.githubusercontent.com/henriquejunqueira/nearby/refs/heads/main/mobile/src/assets/Details.png)
+
+![Tela Location](https://raw.githubusercontent.com/henriquejunqueira/nearby/refs/heads/main/mobile/src/assets/Location.png)
